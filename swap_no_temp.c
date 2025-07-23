@@ -8,6 +8,5 @@ b= a-b;
 a= a-b;
 printf("Après échange: a = %d, b = %d\n", a, b);
 
-
-    return 0;
+return 0;
 }
